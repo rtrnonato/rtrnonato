@@ -36,7 +36,7 @@ Com 2 anos de experiência como freelancer, busco aliar conhecimentos acadêmico
 - [Jogo de Xadrez](https://github.com/rtrnonato/chess-system-java): Aplicação de console, feita em Java, que simula um jogo de xadrez completo.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rtrnonato&repo=library-management&hide_border=true&theme=dark)](https://github.com/rtrnonato/library-management)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=chess-system-java&hide_border=true&theme=dark)](https://github.com/rtrnonato/chess-system-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rtrnonato&repo=chess-system-java&hide_border=true&theme=dark)](https://github.com/rtrnonato/chess-system-java)
 
 ---
 
