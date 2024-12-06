@@ -30,8 +30,9 @@ Com 2 anos de experiência como freelancer, busco aliar conhecimentos acadêmico
 
 🌱 **Estou aprendendo:** React, Docker e JavaScript, buscando expandir minhas habilidades para o desenvolvimento full-stack.
 
+---
 
-💼 **Projetos Recentes**:
+## 💼 Projetos Recentes
 - [Sistema de Gerenciamento de Biblioteca](https://github.com/rtrnonato/library-management): API REST com Spring Boot, PostgreSQL, Hibernate e documentada com Swagger.
 - [Jogo de Xadrez](https://github.com/rtrnonato/chess-system-java): Aplicação de console, feita em Java, que simula um jogo de xadrez completo.
 
