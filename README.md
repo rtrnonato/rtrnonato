@@ -21,7 +21,7 @@
   <img src="assets/apache_maven-icon.svg" alt="Maven" width="40" height="40"/>
 </p>
 
-Com 2 anos de experiência como freelancer, busco aliar conhecimentos acadêmicos e práticos para desenvolver soluções eficientes e escaláveis. Minha experiência prévia em atendimento ao público, como caixa e merchandising, contribuiu para o desenvolvimento de habilidades em comunicação, trabalho em equipe e resolução de problemas. Proativo e comprometido, estou pronto para agregar valor em projetos desafiadores no ambiente de tecnologia.
+Com 2 anos de experiência, busco aliar conhecimentos acadêmicos e práticos para desenvolver soluções eficientes e escaláveis. Minha experiência prévia em atendimento ao público, como caixa e merchandising, contribuiu para o desenvolvimento de habilidades em comunicação, trabalho em equipe e resolução de problemas. Proativo e comprometido, estou pronto para agregar valor em projetos desafiadores no ambiente de tecnologia.
 
 ---
 
